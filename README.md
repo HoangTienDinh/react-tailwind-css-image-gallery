@@ -1,7 +1,7 @@
 ## Image Gallery
 Built to practice using Tailwind alongside React, and working with pixabays api to populate the page with photos (with relevant metadata).
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/HoangTienDinh/react-tailwind-css-image-gallery/blob/master/src/images/Image%20Gallery.gif)
 
 ### `npm start`
 
